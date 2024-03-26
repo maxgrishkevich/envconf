@@ -1,0 +1,20 @@
+{
+  "name": "envconf",
+  "version": "1.0.0", 
+  "description": "by str1ker",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "str1ker",
+  "license": "MIT"
+}
